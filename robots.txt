@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://amberbensonbooks.github.io/riddle-books/sitemapx.xml
